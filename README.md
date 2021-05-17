@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrunchypedro
+- 👋 Hi, I’m @PeterArmstrong79
 - 👀 I’m interested in ... Technology ie phones laptops game consoles etc.
 - 🌱 I’m currently learning ... full stack developing (slowly lol)
 - 💞️ I’m looking to collaborate on ...
